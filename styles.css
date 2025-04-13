@@ -1,0 +1,38 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+.red{
+    color:red;
+}
+
+.blue{
+    color: blue;
+}
+
+#idone{
+    color:aqua;
+}
+
+.container{
+/* top right bottom left */
+/* top, bottom,, right, left */
+
+    margin: 100px 100px 150px 150px;
+    padding: 200 px;
+    border: 1px solid white;
+
+}
+
+.headings{
+    font-style: italic;
+    background-color: brown;
+
+}
+
+.button{
+    padding: 20 px;
+    border-radius: 10px;
+    font-size: 18px;
+}
